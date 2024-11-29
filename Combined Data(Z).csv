@@ -1,0 +1,527 @@
+Section,Description,Code,Prescriptivity,Code Total,Pres. Total
+1.0a,Place type,2,,categorical,
+1.0b,Place type for townships,1,,categorical,
+1.0f,Type of copy,2,,categorical,
+1.0g,Plan update,1,,1,
+1.0l,Consultant used for plan prep,1,,1,
+1.0m,Consultant used for plan compilation,1,,1,
+2.1a,Table of contents,1,,1,
+2.1b,Glossary of terms,1,,1,
+2.1c,Index,1,,1,
+2.1d,Executive summary,1,,1,
+2.1e,Sources in text/tables,1,,1,
+2.1f,Source list provided,1,,1,
+2.1g,Use / quality of maps[1],3,,3,
+2.1h,"Use / quality of tables / figures (readability, clarity of purpose, etc.)",3,,3,
+2.1i,Readability of text[2],2,,2,
+2.2a,"Clear statement of goals, policies, and objectives",1,,1,
+2.2b,Emphasis of clear values/goals/policies,5,,7,
+3.0-1,Explanation of planning process provided,2,,2,
+3.0-2,Discussion of the plan’s purpose,1,,2,
+3.0-3,Definition of Master Plan,0,,2,
+3.0-4,Relationship of the master plan to the zoning ordinance,2,,2,
+3.0-5,Relationship of the master plan to other plans and ordinances,2,,2,
+3.0-6,History of planning in the municipality,2,,2,
+3.0-7,History of master plans in the municipaltiy,2,,2,
+3.0-8,History of the municipality,2,,2,
+3.0-9,History of the region,2,,2,
+3.0-10,Reasons for new plan writing/updating effort,1,,2,
+3.0-11,Explanation of who prepares the plan ,1,,2,
+3.0-12,Explanation of how the plan is prepared ,2,,2,
+3.0-13,Explanation of who will use the plan,1,,2,
+3.0-14,Explanation of how they will use the plan ,1,,2,
+3.0-15,Explanation of who will implement the plan and how,2,,2,
+3.1-1,Description of public participation process,2,,2,
+3.1-2,Usage of written and coordinated public participation plan,2,,2,
+3.1-3,Purpose of public participation,2,,2,
+3.1-4,PP at different stages in the planning process,2,,2,
+3.1-5,Recommendations for public participation  in future.,2,,2,
+3.1-6,Plan made available to public  (at various draft stages for comment),2,,1,
+3.1-7,Regional community (public) involved in plan preparation,2,,1,
+3.1-9,Newspaper,1,,1,
+3.1-10,Newsletters,1,,1,
+3.1-11,Fliers,0,,1,
+3.1-12,Websites,0,,1,
+3.1-13,Blogs,0,,1,
+3.1-14,Automatic emails to subscription list,1,,1,
+3.1-15,T.V./municipal cable channel,0,,1,
+3.1-16,Community meetings,1,,1,
+3.1-17,Social Networking Websites(e.g.facebook),1,,1,
+3.1-18,Neighborhood associations and other groups,1,,1,
+3.1-20,Public Hearings  ,1,,1,
+3.1-21,"Surveys (mailed, emailed, on website)",1,,1,
+3.1-22,Visioning sessions,1,,1,
+3.1-23,Regional level advisory groups,1,,1,
+3.1-24,Area and interest-specific workshops ,1,,1,
+3.1-25,Focus groups,1,,1,
+3.1-26,Charettes,0,,1,
+3.1-27,Citizen advisory committee ,1,,1,
+3.1-28,Interviews,0,,1,
+3.1-29,Strength and Weakness Analysis (SWOT) / (SWAP),1,,1,
+3.1-30,Visual community simulations and scenario development,0,,1,
+3.1-31,Other Public Participation (PP) mechanisms used,1,,1,
+3.1-32,Several stakeholder groups identified and involved,1,,1,
+3.1-34,Minorities,1,,1,
+3.1-35,Disabled,0,,1,
+3.1-36,Seniors,1,,1,
+3.1-37,Youth,1,,1,
+3.1-38,Economically disadvantaged,0,,1,
+3.1-40,Results from above PP mechanisms provided,1,,1,
+3.1-41,"If yes, results tabulated or summarized in the plan itself",1,,1,
+3.1-42,Results from above PP mechanisms discussed,1,,1,
+3.1-43,Discussion of how public comments are incorporated in plan,1,,1,
+4.0a,Summary of data collection and analysis process,1,,1,
+4.0b,Equity Specific Analyses (excluding environmental justice and transportation justice),1,,3,
+4.0c,Vulnerability assessments,3,,3,
+4.0d,"Health implications (life expectancy, asthma rates, cancer rates, etc)",3,,3,
+4.1a,Past plan implementation status,0,,1,
+4.1b,Assessment of past plan implementation effectiveness,0,,1,
+4.1c,"Current plans, policies, regulations",1,,1,
+4.1d,Background studies / reports [discussed],1,,1,
+4.1e,Background studies / reports [attached],,,1,
+ 4.2a,Present problems/threats identified in the jurisdiction,1,,1,
+ 4.2b,Trends re: development and/or land use change,1,,1,
+4.2c,Trends/problems re: environment,1,,1,
+4.2d,Population trend,3,,3,
+4.2e,Existing land uses,1,,2,
+  4.2f,Future land uses,2,,2,
+4.2g,Zoning,1,,2,
+4.2h,Build-out capacity,1,,1,
+4.2i,Time to reach build out,1,,1,
+4.2j,Population to reach build out,1,,1,
+4.2k,Regional Context,0,,1,
+5A.1.1a,Transit (availability of),1,,2,
+5A.1.1b,Transit (access to),1,,2,
+5A.1.1c,Transportation justice,1,,3,
+5A.1.1d,Auto / Roadway system quality,2,,3,
+5A.1.1e,Non motorized Transportation (availability of),3,,3,
+5A.1.1f,Non motorized Transportation (access to),0,,3,
+5A.1.1g,Walkability audit,3,,3,
+5A.1.1h,"Regional, State and Interstate Roads",3,,3,
+5A.1.1i,Inter-Modal connectivity,2,,3,
+5A.1.1j,Intra-Modal connectivity,3,,3,
+5A.1.1k,Transportation corridors,3,,3,
+5A.1.1l,"Transportation facilities (e.g. train stations, park and ride lots)",2,,3,
+5A.1.1m,"Traffic volume data (peak periods, average traffic) ",0,,3,
+5A.1.1n,Environmental constraints to transportation infrastructure development,0,,3,
+5A.1.1o,Transportation infrastructure capacity analysis,0,,3,
+5A.1.1p,Traffic fatalities and accidents,3,,3,
+5A.1.2,Drinking Water Supply,1,,2,
+5A.1.2a,Wellhead protection (if groundwater DW source),,,2,
+5A.1.2b,Sources Identified?,1,,2,
+5A.1.2d,Stormwater management (quantity / system capacity),2,,2,
+5A.1.2c,Stormwater hotspots,1,,2,
+5A.1.3,Wastewater Management,1,,2,
+5A.1.3a,Community Sewer Overflows (CSOs),0,,3,
+5A.1.4,Solid Wastewater Management,0,,2,
+5A.1.5,Schools,2,,2,
+5A.1.6,Police and Fire Protection,2,,2,
+5A.1.7,Recreational Infrastructure and Parks,2,,2,
+5A.1.7a,Greenways / green spaces (trails),2,,2,
+5A.1.7b,Active recreation facilities (soccer fields),1,,2,
+5A.1.7c,Parks,2,,2,
+5A.1.8,Housing Stock,2,,2,
+5A.1.8a,"Affordable housing (present condition, supply, and future need) [19]",2,,2,
+5A.1.8b,Gentrification,1,,2,
+5A.1.8c,Vacancy Rate,1,,3,
+5A.1.8d,Home ownership versus rental,1,,3,
+5A.1.9,Community Facilities,1,,2,
+5A.1.9a,Health Care Facilities,1,,3,
+5A.1.10,Historic and Cultural Resources,2,,2,
+5A.1.10.1,Historic Districts,2,,2,
+5A.1.10.2,Historic preservation overlay zones,1,,2,
+5A.1.10.3,Historic resources in community,2,,2,
+5A.1.10.4,Historic Preservation Easements,2,,2,
+5A.1.10.5,Sites recorded in the National register of historic places ,2,,2,
+5A.1.10.6,Sites recorded in the State register of historic places,2,,2,
+5A.1.10.7,National Landmarks,0,,2,
+5A.1.11,Brownfield Properties,1,,2,
+5A.1.12,"Existing industrial, commercial, retail areas",1,,2,
+5A.1.13,Analysis of potential land use impacts,,,2,
+5A.1.13a,Transportation,2,,2,
+5A.1.13b,Water / wastewater,1,,2,
+5A.1.13c,Solidwaste,1,,2,
+5A.1.13d,Parks / recreation,2,,2,
+5A.1.13e,Schools,1,,2,
+5A.1.13f,Housing,2,,2,
+5A.1.13g,LULUs,0,,3,
+5A.1.14,Analysis of the connection between population projections and infrastructure related concerns,2,,2,
+5A.1.15,Other Facilities/Services,2,,2,
+5A.1.15a,Existing community gardens,2,,2,
+5A.1.15b,Food deserts,2,,3,
+5A.1.15c,Crime Measurement,1,,3,
+5A.1.15d,Code violations,1,,3,
+5A.1.15e,Telecommunications infrastructure,1,,3,
+5A.1.15f,Building Age,3,,3,
+5B.1.1,Transit-oriented development,1,0,2,2
+5B.1.2,"Public transportation and concomitant infrastructure (bus centers, park & ride lots, etc.)",1,1,2,2
+5B.1.3,Transportation/Roads,2,1,2,2
+5B.1.4,Employer and/or government-sponsored commute reduction programs,0,,2,2
+5B.1.5,Traffic management plans to reduce peak period congestion,0,,2,2
+5B.1.6,Traffic calming techniques implemented in neighborhoods,1,1,2,2
+5B.1.7,Traffic Impact Analysis,0,,2,2
+5B.1.8,New neighborhood streets that connect to existing stub streets [20],2,2,2,2
+5B.1.9,Regular performance monitoring of transportation modes,0,,2,2
+5B.1.10,A variety of transportation options,2,1,2,2
+5B.1.11,"Access to parks, trails, open space (including greenways) and infrastructure (including bike racks)",2,2,2,2
+5B.1.12,Walkable communities,2,1,2,2
+5B.1.13,Recreational opportunities within walking/biking distance,2,1,2,2
+5B.1.14,"Office, research, industrial, and commercial areas with direct multimodal links to surrounding areas",0,,2,2
+5B.1.15,"Commercial centers provide pedestrian amenities (transit stops, awnings, landscaping, minimal setbacks, etc.)",1,1,2,2
+5B.1.16,Automobile-oriented retail development discouraged,1,0,2,2
+5B.1.17,Improve the connectivity of local transportation systems to regional networks,1,,2,2
+5B.1.18,TDM strategies,2,2,2,2
+5B.1.19,Safe routes to school,1,1,2,2
+5B.1.20,Transportation system management strategies,1,1,2,2
+5B.1.21,Streetscape standards,2,2,2,2
+5B.1.22,Walkability infrastructure e.g. sidewalks,2,2,2,2
+5B.1.23,Complete streets,2,2,2,2
+5B.1.24,Corridor improvement authorities,0,,2,2
+5B.1.25,Vision Zero,2,2,2,2
+5B.2a  ,"On-site wastewater conservation, treatment, and/or re-use",1,1,2,2
+5B.2b,Conversion from septic/well to public sewer and water,,,2,2
+5B.2c,Pricing mechanisms and/or demand management used to control water use,,,2,2
+5B.2d,Sustainable water resource and waste water management,2,1,2,2
+5B.2e,Sustainable solid waste management,1,0,2,2
+5B.2f,Centralized sewage disposal facilities,1,1,2,2
+5B.2g,Recycle/Reduce/Reuse programs,0,,2,2
+5B.2h,Composting programs,1,1,2,2
+,,,,2,2
+5B.2i,"Coordinated infrastructure planning (local, regional and state) Water and Sewer",0,,2,2
+5B.2j,"Coordinated infrastructure planning (local, regional and state) Schools",0,,2,2
+5B.2k,Existing infrastructure upgraded and maintained first,1,1,2,2
+5B.2l,Infrastructure concurrency,0,,2,2
+5B.2m,Investments in new infrastructure that promote smart growth,0,,2,2
+5B.2n,Efficient use of land and infrastructure,2,,2,2
+5B.2o,Higher density development concentrated in areas with urban services and infrastructure (also infill dev’t),2,2,2,2
+5B.2p,Growth inducement by expanded infrastructure capacity,2,,2,2
+5B.2q,Control growth by controlling infrastructure placement,0,,2,2
+5B.2r,Centralized water recreation facilities / accessory structures,0,,2,2
+5B.2s,Provision of passive recreational facilities such as parks,1,0,2,2
+5B.2t,Provision of active recreational facilities,1,0,2,2
+5B.2u,Urban service boundary,0,,2,2
+5B.3.1,"Variety of housing options (size, density, income levels, design, accessibility, affordability, location, hosuing types)",2,0,2,2
+5B.3.2,Mixed income development ,2,2,2,2
+5B.3.3,Housing located near employment centers,2,2,2,2
+5B.3.4,Housing supported by amenities,2,2,2,2
+5B.3.5,Housing supported by commu nity facilities,2,2,2,2
+5B.3.6,Mixed use housing developments,2,2,2,2
+5B.3.8,Inclusionary zoning,1,1,2,2
+5B.3.9,Promote municipal zoning for low-income housing,1,1,2,2
+5B.3.10,Eliminate municipal zoning that limits low-income housing,0,,2,2
+5B.3.11," Prioritize on-site construction of affordable housing units, but perhaps allow off-site construction of units or in-lieu payments",0,,2,2
+5B.3.12,housing trust fund,2,2,2,2
+5B.3.13,Housing linkage policies,1,1,2,2
+5B.3.14,Provide low income housing tax credits,0,,2,2
+5B.3.15,Integrate affordable housing units with market rate housing,2,1,2,2
+5B.3.16,Require percentage of land for affordable housing in transit oriented development projects,0,,2,2
+5B.3.17,Use smart growth principles when developing low-income housing,0,,2,2
+5B.3.18,Integrate affordable housing units with mixed use developments,2,2,2,2
+5B.3.19,Place a higher degree of emphasis on the design of affordable housing units,0,,2,2
+5B.3.20,Encourage the use of neotraditional design ideas in the construction of affordable housing units,0,,2,2
+5B.3.21,"Encourage supportive housing services including home ownership counseling, and other social services",2,2,2,2
+5B.3.22,"Private, nonprofit--acquire and hold land to help provide affordable housing",0,,2,2
+5B.3.23,Encourage the coordination of affordable housing programs with non-profits and other agencies,0,,2,2
+5B.3.24,Live/work zoning,0,,2,2
+5B.3.25,Community Land Trusts,2,2,2,2
+5B.3.26,regional fair share affordable housing,0,,2,2
+5B.3.27,Provide adequate housing types for aging populations e.g. assisted living,0,,2,2
+5B.3.28,Zoning for accessory dwelling units - granny flats,2,2,2,2
+5B.3.29,Provisions for home occupations,0,,2,2
+5B.3.30,Encourage maintenance & energy efficiency for low-moderate income housing,1,1,2,2
+5B.3.31,Incumbent Upgrading,0,,2,2
+5B.4.1,High quality of life for residents,1,0,2,2
+5B.4.2,Local character preservation (except historic preservation),0,,2,2
+5B.4.3,Historic preservation,2,2,2,2
+5B.4.4,Cultural resources,1,0,2,2
+5B.4.5,Reclamation of brownfield sites,0,,2,2
+5B.4.6,Urban revitalization,2,1,2,2
+5B.4.7,Renovation and reuse of existing buildings,2,2,2,2
+5B.4.8,"Maintain existing commercial, residential and industrial areas",2,2,2,2
+5B.4.9,Design standards and guidelines ,2,1,2,2
+5B.4.10,Design review board,1,,2,2
+5B.4.11,"Locally and regionally-appropriate façades, landscaping and site designs,",2,,2,2
+5B.4.12,Preserve existing rural residential character,0,,2,2
+5B.4.13,"Support LEED-ND (Neighborhood Development) to integrate the principles of smart growth, urbanism, and green building into neighborhood design",0,,2,2
+5B.4.14,Support crime reduction through environmental design,2,2,2,2
+5B.4.15,Improve and Strengthen existing neighborhoods,2,2,2,2
+5B.4.16,Support neighborhood revitalization through infrastructure upgrades and maintenance ,2,2,2,2
+5B.4.17,Require community impact statements for all locally unwanted land uses (Lulus),0,,2,2
+5B.4.18,Remove zoning barriers to community gardens/community supported agriculture,0,,2,2
+5B.4.19,Ensure all residents have access to fresh food,2,2,2,2
+5B.4.20,Sub-area and neighborhood level plans,2,2,2,2
+5B.4.21,Preserve community character,2,2,2,2
+5B.4.22,Landscape Design provisions,0,,2,2
+5B.4.23,TND (Traditional Neighborhood Design),0,,2,2
+5B.4.24,Form based codes,1,1,2,2
+5B.4.25,Project Rating Systems (establish guidelines and procedures to evaluate the proposed project designs),0,,2,2
+5B.4.26,"Maintain/preserve character of routes (scenic, historic, heritage)",2,2,2,2
+5B.4.27,Urban agriculture provisions,2,2,2,2
+5B.4.28,Community benefit agreements,0,,2,2
+5B.5.1,Create historic districts,1,1,2,2
+5B.5.2,Create a Historic District Commission to oversee the historic districts,0,,2,2
+5B.5.3,Historic preservation/design guidelines,0,,2,2
+5B.5.4,Provide incentives for the owners of historic homes,0,,2,2
+5B.5.5,Establish Preservation Easements,0,,2,2
+5B.5.6,Establish Main Street Program,0,,2,2
+5B.5.7,Tax exemptions/credits for preservation/ renovation/ adaptive reuse,2,2,2,2
+5B.5.8,LEED tax incentives for historic preservation,0,,2,2
+5B.5.9,Heritage tourism,2,2,2,2
+5B.5.10,TDR for historic preservation,0,,2,2
+5B.5.11,Corridor design guidelines,2,2,2,2
+5B.5.12,Regional design guidelines,0,,2,2
+5B.5.13,View Shed preservation requirements,2,2,2,2
+6A.1,Primary economic base(s),0,,1,
+6A.2,Economic trend,0,,3,
+6A.3,Poverty levels,2,,2,
+6A.4,Unemployment levels,0,,2,
+6A.5,Employment analysis by sector,0,,2,
+6A.6,Retail and market analysis,0,,2,
+6A.7,Labor Force analysis,0,,2,
+6A.8,Education analysis,1,,2,
+6A.9,Infrastructure capacity analysis tied to economic growth projections,0,,2,
+6A.10,Population projections linked to economic projections,1,,2,
+6A.11,Income levels,2,,2,
+6A.12,Primary industries/employers,2,,2,
+6A.13,Existing small businesses,0,,2,
+6A.14,Existing minority owned businesses,0,,2,
+6A.15,Spatial mismatch,0,,3,
+6B.1.1,Inventory of economic assets,2,0,2,2
+6B.1.2,Develop a strategic economic development plan,0,,2,2
+6B.1.3,Collaboration for economic development with Downtown Development Authorities,0,,2,2
+6B.1.4,Collaboration for economic development with other economic development agencies,0,,2,2
+6B.1.5,"Collaboration for economic development with businesses, trade organizations and other groups",0,,2,2
+6B.1.6,Targeted industry study,0,,2,2
+6B.1.7,Incentives for economic development e.g. tax abatements,1,0,2,2
+6B.2.1,New investment and reinvestment in already developed areas,2,2,2,2
+6B.2.2,Socially and environmentally responsible business and industry,0,,2,2
+6B.2.3,Retention of existing businesses,2,1,2,2
+6B.2.4, Collaboration - Tax increment financing,0,,2,2
+6B.2.5,Collaboration - Brownfield Redevelopment Authorities,0,,2,2
+6B.2.6,Collaboration for economic development with citizens groups,2,2,2,2
+6B.2.7,Cluster based economic development,0,,2,2
+6B.2.8,Natural resource protection in conjunction with economic activity,0,,2,2
+6B.2.9,Regional or multi-jurisdictional economic development,0,,2,2
+6B.2.10,Stable employment and revenues,0,,2,2
+6B.2.11,Regional tax-base sharing,0,,2,2
+6B.2.12,Coordination of workforce development and economic development,2,2,2,2
+6B.2.13,Diversification of the economy,0,,2,2
+6B.2.14,Create business incubators,1,,2,2
+6B.2.15,"Target industries/businesses such as: local resources,skills, infrastructure",,,2,2
+6B.2.16,Industries that can use local raw materials or natural resources,0,,2,2
+6B.2.17,Industries that need a labor force similar to the local one,0,,2,2
+6B.2.18,Industries that can use existing industrial facilities in the community,0,,2,2
+6B.2.19,Industries with other needs that can be uniquely satisfied by the community,0,,2,2
+6B.2.20,Businesses that can use waste energy from local industries,0,,2,2
+6B.2.21,Create local economy that's compatible with the regional economic base,0,,2,2
+6B.2.22,Incentivize green businesses,0,,2,2
+6B.2.23,"Encourage ""local"" businesses",1,,2,2
+6B.2.24,Encourage minority owned businesses,2,2,2,2
+6B.2.25,Encourage small businesses,2,2,2,2
+6B.2.26,Value added economic development,0,,2,2
+6B.2.27,Community-based / local asset driven economic development,0,,2,2
+6B.3a,Economic development emphasis of goals and policies,2,,2,
+6B.3b,Infrastructure for ED/Growth Management,2,,1,
+6B.3c,Promotion of private economic / commercial activities,1,,1,
+6B.3d,Recruitment of industry,0,,1,
+7A.1,Land cover,0,,3,
+7A.2,Land use incompatibilities,0,,3,
+7A.3,Population projection linked to natural resources,0,,2,
+7A.4,Tree canopy cover,3,,3,
+7A.5,Air pollution,2,,3,
+7A.6,Noise pollution,0,,3,
+7A.7,Light pollution,2,,3,
+7A.8,Heat islands,2,,3,
+7A.9,Heat risk,3,,3,
+7A.10,Environmental justice,0,,3,
+7A.11a,Physical limitations for development,0,,3,
+7A.11b,Manmade hazards and hazardous activities,0,,3,
+7A.11c,Natural hazards,0,,3,
+7A.11d,Floodplains,3,,3,
+7A.11e,Sunny Day Flooding,0,,3,
+7A.11f,Other Flooding,1,,3,
+7A.11g,Climate impacts,0,,3,
+7A.11h,Sea Level rise,1,,3,
+7A.4i,Soil Analysis and limitations to development,1,,3,
+7A.4j,Water supply,2,,3,
+7A.4k,Coastal zones,0,,3,
+7A.4l,Steep slopes,0,,3,
+7A.4m,Erosion,0,,3,
+7A.4n,Other physical limitations,0,,3,
+7A.4o,Impacts from impervious surfaces,2,,3,
+7A.4p,Cumulative impacts of development,0,,3,
+7A.4q,Sprawl,1,,2,
+7A.5a,Impaired quality watersheds,0,,3,
+7A.5b,High quality waters,0,,3,
+7A.5c,Other waters identified,3,,3,
+7A.5d,Coastal resources and zones,0,,3,
+7A.5e,Fragile natural areas[4],3,,3,
+7A.5f,High quality natural areas[5],0,,3,
+7A.5g,Regionally critical or unique natural resources,0,,3,
+7A.6a,Existing farmland and agricultural areas,0,,3,
+7A.6b,Soil analysis for agricultural areas,0,,3,
+7A.6b,Prime farmland,0,,3,
+7A.6c,Agricultural and vacant land combined in one category (see map to evaluate this),0,,3,
+7A.6d,Agricultural and rural residential combined in one category (see map to evaluate this),0,,3,
+7A.6e,Woodlots/forest production lands[6],0,,3,
+7A.6f,Mineral/other production lands,0,,3,
+7A.6g,Micro-agriculture lands[7],0,,3,
+7A.6h,Coastal resource production aquaculture,0,,3,
+7A.6i,Existing ag easements,0,,3,
+7A.6j,Existing PDRs,0,,3,
+7B.1a,Growth limited by carrying capacity,0,,2,2
+7B.1b,New growth directed to existing urban areas,2,2,2,2
+7B.1c,Low density outward expansion controlled or limited,0,,2,2
+7B.1d,Growth directed away from important resource areas[8],0,,2,2
+7B.1e,Discourage “sprawl”,1,1,2,2
+7B.1f,,,,2,2
+7B.1g,Mapping of conservation zones,1,0,2,2
+7B.1h,Urban growth boundary,0,,2,2
+7B.1i,Public education efforts,1,0,2,2
+7B.1j,Development tools/incentives for natural resource protection,0,,2,2
+7B.1k,Compact development,0,,2,2
+7B.1l,Innovative zoning tools to encourage compact and mixed use developments including:,,,2,2
+7B.1m,"Areas zoned by building type, not by use",,,2,2
+7B.1n,Planned Unit Development,0,,2,2
+7B.1o,Density bonuses[9],2,2,2,2
+7B.1p,Mixed use zoning,2,2,2,2
+7B.1q,Traditional neighborhood ordinance,0,,2,2
+7B.1r,Opportunities to retrofit single use buildings to mixed use,2,2,2,2
+7B.1s,Transect based planning,0,,2,2
+7B.1t,Climate adaptation/resilience planning,2,2,2,2
+7B.1u,Limits on development because of impacts,0,,2,2
+7B.2a,"Protection of natural areas, and open spaces",2,2,2,2
+7B.2b,Parks and recreational areas,2,2,2,2
+7B.2c,Biodiversity,2,2,2,2
+7B.2d,"Important resources identified (ag, forestry, mining, fishing, recreation)",0,,2,2
+7B.2f,Sustainable use of natural resources,0,,2,2
+7B.2g,Preservation of natural resources,2,2,2,2
+7B.2h,"Maintain natural terrain, drainage, and vegetation",0,,2,2
+7B.2i,Environmentally-conscious production techniques and materials,2,2,2,2
+7B.2j,Minimize impact to natural systems,0,,2,2
+7B.2k,Connectivity between natural areas,2,2,2,2
+7B.2l,Wildlife corridors,0,,2,2
+7B.2m,Trails connecting parks,2,2,2,2
+7B.2n,Greenway system,2,2,2,2
+7B.2o,Night sky safeguards / light pollution controls[10],2,2,2,2
+7B.2p,Fee simple property acquisition,0,,2,2
+7B.2q,Easement acquisition,2,2,2,2
+7B.2r,Buffer zones near sensitive/unique natural areas,0,,2,2
+7B.2s,Cluster zoning (open space development),0,,2,2
+7B.2t,Conservation planning and design,0,,2,2
+7B.2u,Site plan review regulations,0,,2,2
+7B.2v,Landscaping standards,0,,2,2
+7B.2w,Incentives for native landscaping,2,2,2,2
+7B.2x,Development standards to encourage contiguous open space,2,2,2,2
+7B.2y,Environmental overlay districts,0,0,2,2
+7B.2z,Watershed-based planning,1,1,2,2
+7B.2z.1,"Alternative energy ordinances (wind, water, solar, etc.)",2,2,2,2
+7B.2z.2,Tree Ordinances,2,2,2,2
+7B.3.1,Tools to promote sustainable agriculture,0,,2,2
+7B.3.2,Purchase of development rights[11] (PDR/PACE),0,,2,2
+7B.3.3,Transfer of development rights[12],0,,2,2
+7B.3.4,Exclusive agricultural zoning,0,,2,2
+7B.3.5,Cluster development[13],0,,2,2
+7B.3.6,Right to farm ordinances[14],0,,2,2
+7B.3.7,Buffer zones for Ag land[15],0,,2,2
+7B.3.8,Conservation subdivisions,0,,2,2
+7B.3.9,Encourage active farming,0,,2,2
+7B.3.10,Maintain rural character,0,,2,2
+7B.3.11,Encourage or incentivize the use of GAAMPs,0,,2,2
+7B.3.12,Establish agriculture security areas with incentives for participation,0,,2,2
+7B.3.13,Conservation easements,2,2,2,2
+7B.3.14,Sliding Scale Zoning,0,,2,2
+7B.3.15,Encourage contiguous farmland,0,,2,2
+7B.3.16,Develop farm-to-market programs,0,,2,2
+7B.3.17,Community supported agriculture,2,2,2,2
+7B.3.19,Quarter scale zoning,0,,2,2
+7B.4a,Water quality/pollution prevention,2,2,2,2
+7B.4a.1,Surface water protection (including wetlands),2,2,2,2
+7B.4a.2,Groundwater protection,0,,2,2
+7B.4b,Water quality management tools (non-ag),2,2,2,2
+7B.4b.1,Flood plain development restrictions,1,0,2,2
+7B.4b.2,Acquire wetland permit before other permits[16],0,,2,2
+7B.4b.3,Public acquisition of floodplain lands,0,,2,2
+7B.4b.4,Flood management overlay zoning district in place,0,,2,2
+7B.4b.5,Development setbacks and vegetative buffers,0,,2,2
+7B.4c,On-site storm water management systems,1,1,2,2
+7B.4c.1,Design criteria for vegetated open channels,0,,2,2
+7B.4c.2,Parking lot runoff controls,1,1,2,2
+7B.4c.3,Parking lot vegetation,1,1,2,2
+7B.4c.4,Pesticide controls,1,1,2,2
+7B.4c.5,Fertilizer controls,0,,2,2
+7B.4c.6,Controls on new septic installation,0,,2,2
+7B.4c.7,Conservative use and proper storage of de-icing agents for roads,0,,2,2
+7B.5a,Coastal resource protection,0,,2,2
+7B.5a.1,Dune protection overlay zoning districts,0,,2,2
+7B.5a.2,Dune management,0,,2,2
+7B.5a.3,Coastal wetlands protection,0,,2,2
+7B.5a.4,Coastal setbacks,0,,2,2
+7B.5a.5,Shoreline protection overlay district,0,,2,2
+7B.5a.6,Shoreline erosion BMPs,0,,2,2
+7B.5b,Adoption of state dune and wetland protection permit provisions[17],0,,2,2
+7B.5c,Public education on coastal management,0,,2,2
+7B.5d,Public access/use restrictions,0,,2,2
+7B.5e,"Preserve existing vegetation, rocks and berms along shoreline",0,,2,2
+7B.5f,Critical coastal habitat protection[18],0,,2,2
+8A.1,Coordination with federal agencies,1,1,2,2
+8A.2,Coordination with state agencies,2,2,2,2
+8A.3,Coordination with regional agencies,0,,2,2
+8A.4,Coordination with county agencies,0,,2,2
+8A.5,Coordination with special districts,0,,2,2
+8B.1,Coordination with surrounding municipalities,2,2,2,2
+8B.2,Coordination with area non-profits,2,2,2,2
+8B.3,Coordination with school districts,0,,2,2
+8C.1,"Coordination with other departments within the municipality e.g. environmental commission, water and sewer etc.",2,2,2,2
+8D.1,Federal agencies consulted prior-to and during plan preparation,0,,2,
+8D.2,State agencies consulted prior-to and during plan preparation,1,,2,
+8D.3,County agencies consulted prior-to and during plan preparation,2,,2,
+8D.4,Regional agencies consulted prior-to and during plan preparation,1,,2,
+8D.5,Special districts consulted prior-to and during plan preparation,2,,2,
+8D.6,Surrounding municipalities consulted prior-to and during plan preparation,1,,2,
+8D.7,Area non-profits consulted prior-to and during plan preparation,2,,2,
+8D.8,School districts consulted prior-to and during plan preparation,0,,2,
+8D.9,Internal departments and agencies consulted prior-to and during plan preparation,2,,2,
+9A,Does master plan refer to state plannning requirements?,0,,2,
+9A.1,Does the master plan provide an assessment of whether it is consistent with state planning requirements/ state enabling law/ state level growth management requirements?,0,,2,
+9B.1,"Assessment of master plan consistency with state plans, regulations, and policies (e.g. state wetland protection laws, MDOT policies)",2,,2,
+9B.2,"Assessment of master plan consistency with regional plans, regulations, and policies (e.g. MPO policies)",2,,2,
+9B.3,"Assessment of master plan consistency with countyplans, regulations, and policies (e.g. County road commission policies, county land use plan etc.)",2,,2,
+9C.1,Assessment of master plan consistency with neighboring municipalities' master plans and ordinances,0,,2,
+9C.2,Assessment of master plan consistency with surrounding municipalities' boundary uses,0,,2,
+9C.3,Assessment of master plan consistency with policies and plans of area non-profits,2,,2,
+9D.1,Assessment of master plan consistency with plans and policies of other internal municipal agencies and departments (e.g. historic district commission),2,,2,
+9D.2,"Consistency with other plans, policies  and ordinances",2,,2,
+9D.3,Assessment of consistency between master plan and zoning ordinance,2,,2,
+9D.4,Assessment of consistency between master plan and other ordinances (e.g. wetland ordinance),2,,2,
+9D.5,Assessment of consistency between master plan and subdivision regulations,2,,2,
+9D.6,Assessment of consistency between master plan and other plans (e.g. affordable housing plan),2,,2,
+9D.7,Assessment of consistency between master plan and sub-area plans (e.g. downtown plan),1,,2,
+9D.9,"Consistency between goals, policies and objectives in the plan",2,,1,
+9D.10,"Consistency between goals, policies and objectives in the plan - Analyst's assessment",3,,3,
+9D.12,Land classification/land use map,0,,1,
+9D.13,Types of land use classifications,1,,1,
+9D.14,Discussion of link to land suitability analysis and other assessments,0,,2,
+9D.15,Discussion of link to policies,0,,2,
+9D.16,"Consistency between the map, policies, and analyses Analyst's assessment",3,,3,
+10.1,Timetable for implementation,1,,1,
+10.2,Implementation responsibilities,1,,1,
+10.3,Implementation mechanisms,1,,1,
+10.4,"Land use regulations, subdivision ordinances, and/or zoning",1,,1,
+10.5,Capital improvement plans (CIPs) and/or facilities plans,1,,1,
+10.6,Education,0,,1,
+10.7,Consistency between plan and implementation mechanisms,1,,1,
+10.8,Monitoring / evaluation process,1,,1,
+10.9,Achievement benchmarks,1,,1,
+10.1,Specific benchmark dates,0,,1,
+10.11,Updating process / plan,1,,1,
+11.1,Regional land use plans,0,,1,
+11.2,Corridor Improvement Plans,1,,1,
+11.3,Joint Master Plan,0,,1,
+11.4,Regional infrastructure authorities e.g. sewer authorities,0,,1,
+11.5,Joint zoning ordinance,0,,1,
+11.6,Joint planning commission,0,,1,
+11.7,Joint zoning board,0,,1,
+11.8,Joint infrastructure agreements e.g. shared water and sewer through MOUs etc (different from authorities),0,,1,
+11.9,Other joint plans (e.g. non-motorized transportation),0,,1,
+11.1,Informal regional governments e.g. Saline area sustainability Circle or CAPT,0,,1,
